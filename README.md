@@ -1,5 +1,5 @@
 # FractalRenderer
-3D Fractal Renderer using Ray Marching and Distance Equations for Fractal
+3D Fractal Renderer using Ray Marching and Distance Estimators for the Mandlebulb and Menger Spong Fractals.
 
 ## INSTRUCTIONS TO RUN:
 First, unzip ```ext.zip```
@@ -17,4 +17,6 @@ This creates the executable Rast. You can render a scene by typing:
 ```
 ./Rast
 ```
-And switch between the Mandelbulb Fractal and Menger Sponge Fractal by pressing '1'.
+- Switch between the Mandelbulb Fractal and Menger Sponge Fractal by pressing '1'
+- Pan the camera using WASD
+- Rotate the camera by clicking and dragging the mouse
