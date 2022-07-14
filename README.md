@@ -1,5 +1,6 @@
 # FractalRenderer
-3D Fractal Renderer using Ray Marching and Distance Estimators for the Mandlebulb and Menger Spong Fractals.
+### 3D Fractal Renderer using Ray Marching and Distance Estimators for the Mandlebulb and Menger Sponge Fractals.
+Made by Evan Azari and Chuckwuemeka Ubakanma
 
 ## INSTRUCTIONS TO RUN:
 First, unzip ```ext.zip```
